@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Purvansh9
+- 👋 Hi, I’m Purvansh
 - 👀 I’m interested in ...Coding
 - 🌱 I’m currently learning ...Python,c++
 - 💞️ I’m looking to collaborate on ...
